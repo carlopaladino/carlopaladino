@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tom Vague</h1>
 <h3 align="center">A Data Analyst and BlockChain Dev from Italy</h3>
 
-<p align="left"> <a href="https://twitter.com/cybermoma" target="blank"><img src="https://img.shields.io/twitter/follow/cybermoma?logo=twitter&style=for-the-badge" alt="cybermoma" /></a> </p>
+
 
 - 🌱 I’m currently learning **Blockchain Developing & Data Science**
 
