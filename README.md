@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/carlopaladino/UniProjects](https://github.com/carlopaladino/UniProjects)
 
-- 📫 How to reach me **unicarlo96@gmail.com**
+- 📫 How to reach me **TomVagueDev@tutanota.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
