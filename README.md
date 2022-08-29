@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science & Business Informatics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/carlopaladino/UniProjects](https://github.com/carlopaladino/UniProjects)
 
