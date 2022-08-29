@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Moma</h1>
-<h3 align="center">A Data Analyst and BlockChain Dev from Italy</h3>
+<h3 align="center">A Data Analyst and BI Developer from Italy</h3>
 
 
 
-- 🌱 I’m currently learning **Blockchain Developing & Data Science**
+- 🌱 I’m currently learning **BI Developing & Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/carlopaladino/UniProjects](https://github.com/carlopaladino/UniProjects)
 
