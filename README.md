@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Moma</h1>
-<h3 align="center">A Data Analyst and BI Developer from Italy</h3>
+<h1 align="center">Hi 👋, I'm SonoMomaa</h1>
+<h3 align="center">A Indie Hacker from Italy</h3>
 
 
 
-- 🌱 I’m currently learning **Data Science & Business Informatics**
+- 🌱 Graduated in **Data Science & Business Informatics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/carlopaladino/UniProjects](https://github.com/carlopaladino/UniProjects)
 
