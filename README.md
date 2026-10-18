@@ -7,7 +7,7 @@
 
 ---
 
-- 🏥 Working with clinical data in a hospital research setting, based in Tuscany
+- 🏥 AI Lead in [Fondazione Monasterio](https://www.monasterio.it)
 - 🧠 Interested in making AI usable inside real healthcare systems: clinical data pipelines, LLM and RAG with on-premise data, HL7 FHIR
 - 🎓 MSc in **Data Science & Business Informatics**, university projects in [UniProjects](https://github.com/carlopaladino/UniProjects)
 - 🇮🇹 Member of [SIIAM](https://www.siiam.it), the Italian Society of AI in Medicine
